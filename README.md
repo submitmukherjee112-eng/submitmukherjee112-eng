@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi 👋 I'm Sumit
 
-<!--
-**submitmukherjee112-eng/submitmukherjee112-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🐍 Contribution Snake
 
-Here are some ideas to get you started:
+![Snake](https://raw.githubusercontent.com/submitmukherjee112-eng/submitmukherjee112-eng/output/github-contribution-grid-snake.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=submitmukherjee112-eng&show_icons=true&theme=tokyonight)
+
+## 💻 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=submitmukherjee112-eng&layout=compact&theme=tokyonight)
